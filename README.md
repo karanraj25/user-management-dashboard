@@ -2,6 +2,8 @@
 
 ![alt](./Screenshot1.png)
 
+Live Hosted Link: https://userdetailsdashboard.netlify.app/
+
 ## Implement a searchable table displaying user information: Username, Email,
 Phone, ID, and Creation date.
 
