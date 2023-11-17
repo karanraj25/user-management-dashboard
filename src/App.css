@@ -1,0 +1,10 @@
+.ka{
+  background: linear-gradient(5deg,wheat,rgb(0, 255, 76));
+}
+.karan{
+  background: linear-gradient(rgb(13, 13, 13), green);
+color: wheat;
+}
+.user{
+  text-shadow: 2px 4px 6px blue;
+}
